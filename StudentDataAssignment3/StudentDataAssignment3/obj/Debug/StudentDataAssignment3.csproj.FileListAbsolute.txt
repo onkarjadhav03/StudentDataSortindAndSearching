@@ -1,0 +1,7 @@
+D:\mphasis\dotnet\Day18\StudentDataAssignment3\StudentDataAssignment3\bin\Debug\StudentDataAssignment3.exe.config
+D:\mphasis\dotnet\Day18\StudentDataAssignment3\StudentDataAssignment3\bin\Debug\StudentDataAssignment3.exe
+D:\mphasis\dotnet\Day18\StudentDataAssignment3\StudentDataAssignment3\bin\Debug\StudentDataAssignment3.pdb
+D:\mphasis\dotnet\Day18\StudentDataAssignment3\StudentDataAssignment3\obj\Debug\StudentDataAssignment3.csproj.AssemblyReference.cache
+D:\mphasis\dotnet\Day18\StudentDataAssignment3\StudentDataAssignment3\obj\Debug\StudentDataAssignment3.csproj.CoreCompileInputs.cache
+D:\mphasis\dotnet\Day18\StudentDataAssignment3\StudentDataAssignment3\obj\Debug\StudentDataAssignment3.exe
+D:\mphasis\dotnet\Day18\StudentDataAssignment3\StudentDataAssignment3\obj\Debug\StudentDataAssignment3.pdb
